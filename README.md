@@ -70,7 +70,7 @@ The MATLAB files are located in the respective **2R/** and **3R/** folders for e
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/robot-kinematics-control.git
+   git clone https://github.com/your_username/robot-kinematics-control.git](https://github.com/MasoudAmirkhaniV/MobileRobotKinematicsMATLAB.git
    ```
 
 2. Open MATLAB and navigate to the desired folder (e.g., `fixed-base/2R/`).
